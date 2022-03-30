@@ -14,7 +14,7 @@ Each of these methods generated the same trajectory for the electron. But becaus
 
 Few examples of graphs generated:
 
-![](https://drive.google.com/file/d/1HOxGsyv11bfHk_wcvDEbWKrK2IfQkAPn/view?usp=sharing)
-![](https://drive.google.com/file/d/1n4zdYbcE3DePWO-S103NfB7ylJ2eMXz8/view?usp=sharing)
+![Leapfrog Trajectory](https://user-images.githubusercontent.com/68490344/160836058-6bff0a77-467c-4f9c-b2cf-aefe30dbf73f.png)
+![Leapfrog Momentum](https://user-images.githubusercontent.com/68490344/160836092-337a9bc9-627f-4fd2-a2fd-cc7bcf9cc21c.png)
 
 
