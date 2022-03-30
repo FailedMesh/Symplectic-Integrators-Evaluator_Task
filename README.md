@@ -14,7 +14,7 @@ Each of these methods generated the same trajectory for the electron. But becaus
 
 Few examples of graphs generated:
 
-!(https://drive.google.com/file/d/1HOxGsyv11bfHk_wcvDEbWKrK2IfQkAPn/view?usp=sharing)
-!(https://drive.google.com/file/d/1n4zdYbcE3DePWO-S103NfB7ylJ2eMXz8/view?usp=sharing)
+![](https://drive.google.com/file/d/1HOxGsyv11bfHk_wcvDEbWKrK2IfQkAPn/view?usp=sharing)
+![](https://drive.google.com/file/d/1n4zdYbcE3DePWO-S103NfB7ylJ2eMXz8/view?usp=sharing)
 
 
