@@ -17,4 +17,6 @@ Few examples of graphs generated:
 ![Leapfrog Trajectory](https://user-images.githubusercontent.com/68490344/160836058-6bff0a77-467c-4f9c-b2cf-aefe30dbf73f.png)
 ![Leapfrog Momentum](https://user-images.githubusercontent.com/68490344/160836092-337a9bc9-627f-4fd2-a2fd-cc7bcf9cc21c.png)
 
+Graphs are generated automatically by running the codes.
+
 
