@@ -19,4 +19,10 @@ Few examples of graphs generated:
 
 Graphs are generated automatically by running the codes.
 
+### Literature Search:
+
+1) **Hamiltonian Systems** have certain global structures due to its dynamics which are prone to be missed in standard numerical integration methods. The paper by P J Channel and C Scovel in August 1988, by approximating the time-delt map of the exact dynamics, which is a symplectic map.
+2) The paper by G N MILSTEIN, YU. M. REPIN and M. V. TRETYAKOV implements symplectic integration methods on **Hamiltonian Systems** with and without noise, and checks if the symplectic structure is preserved.
+3) The paper by Junjie Luo, Weipeng Lin and Lili Yang studies **inseperable Hamiltonian Systems**. Although this paper is focused on astrophysical problems, it is of interest since it uses an 8th order Runge-Kutta method, and has implemented an efficient algorithm for chaotic orbits.
+
 
