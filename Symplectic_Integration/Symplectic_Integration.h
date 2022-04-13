@@ -3,6 +3,8 @@
 #include <iostream>
 #include <vector>
 
+long double norm(std::vector<long double>);
+
 void print_vector(std::vector<long double> vect);
 
 void get_acceleration(std::vector<long double>&,

@@ -2,6 +2,11 @@
 #include <iostream>
 #include <vector>
 
+long double norm(std::vector<long double> vect)
+{
+	return sqrt(vect[0] * vect[0] + vect[1] * vect[1] + vect[2] * vect[2]);
+}
+
 void print_vector(std::vector<long double> vect)
 {
 	for (int i = 0; i < vect.size(); i++)

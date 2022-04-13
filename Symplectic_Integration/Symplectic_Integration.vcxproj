@@ -139,7 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Symplectic_Integration.cpp" />
+    <ClCompile Include="helper_functions.cpp" />
+    <ClCompile Include="RungeKutta4thOrder.cpp" />
+    <ClCompile Include="Symplectic_Integration_main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Symplectic_Integration.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,3 @@
+﻿  Symplectic_Integration_main.cpp
+C:\Users\kallo\source\repos\Symplectic_Integration\Symplectic_Integration_main.cpp(16,26): warning C4244: 'initializing': conversion from 'long double' to 'long', possible loss of data
+  Symplectic_Integration.vcxproj -> C:\Users\kallo\source\repos\Symplectic_Integration\x64\Debug\Symplectic_Integration.exe
