@@ -12,7 +12,7 @@ int main()
 
 	//Timestep:
 	long double time_length = pow(10, -9);
-	long double tStep = pow(10, -12);
+	long double tStep = 1.4 * pow(10, -12);
 	long int num_iterations = time_length / tStep;
 
 	std::cout << "Number of timesteps = " << num_iterations;
