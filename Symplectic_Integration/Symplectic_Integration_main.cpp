@@ -41,7 +41,9 @@ int main()
 
 	//int max_turns = 2;
 
-	RungeKutta4thOrder(accelerations, velocities, positions, Electric_Field, Magnetic_Field, tStep, q, m, num_iterations);
+	//Uncomment the integration method to be used:
+	//RungeKutta4thOrder(accelerations, velocities, positions, Electric_Field, Magnetic_Field, tStep, q, m, num_iterations);
+	RungeKutta6thOrder(accelerations, velocities, positions, Electric_Field, Magnetic_Field, tStep, q, m, num_iterations);
 
 	return 0;
 }
