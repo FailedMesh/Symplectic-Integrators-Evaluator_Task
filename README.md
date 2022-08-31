@@ -10,6 +10,8 @@ each turn. The motion of the electron can be controlled and visualized by changi
 3) Runge Kutta 6th Order
 4) Leapfrog Method
 
+*For a MATLAB implementation, switch to the main branch*
+
 Each of these methods generated the same trajectory for the electron. But because of the difference in integration method, the momentum scaling and time steps required for a specific number of turns tend to change. The value of time step and maximum number of turns can be changed in the code to see how they affect the momentum scaling, keeping in mind the time complexity of the code
 
 Few examples of graphs generated:
