@@ -1,5 +1,5 @@
-# Symplectic-Integrators-Evaluator_Task
-## An implementation of the Symplectic Integration Task for GSOC-2022
+# Symplectic-Integrators-Task
+## An implementation of the Symplectic Integration Task
 
 The Force equation of an electron is integrated by using various symplectic integration methods to generate its trajectory, radius and momentum scaling factor with
 each turn. The motion of the electron can be controlled and visualized by changing the values of the electric and magnetic fields.
